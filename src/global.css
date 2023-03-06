@@ -1,0 +1,10 @@
+@import "./assets/icons/font_5k5gtmcp5e4/iconfont.css";
+
+@font-face {
+  font-family: "Mynerve";
+  src: url("./assets/fonts/Mynerve/Mynerve-Regular.ttf");
+}
+
+.fz18 {
+  font-size: 18px;
+}

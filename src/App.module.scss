@@ -1,0 +1,28 @@
+$blue: #1875e7;
+$side: left;
+
+.mynerve {
+  font-family: "Mynerve";
+}
+
+.scssBox {
+  margin: 20px 0;
+  display: flex;
+  .box {
+    color: $blue;
+    background-color: rgb(226, 223, 223);
+    border: 1px solid grey;
+    margin-#{$side}: 20px;
+    padding: calc(20px / 2);
+    transform: scale(1.1);
+  }
+}
+
+.w50 {
+  width: 50px;
+  height: 50px;
+}
+
+.h200p {
+  height: 200px;
+}

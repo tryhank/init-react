@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11474219",
+      "name": "all",
+      "font_class": "all",
+      "unicode": "e6ef",
+      "unicode_decimal": 59119
+    },
+    {
+      "icon_id": "11474243",
+      "name": "copy",
+      "font_class": "copy",
+      "unicode": "e6f3",
+      "unicode_decimal": 59123
+    },
+    {
+      "icon_id": "11474272",
+      "name": "editor",
+      "font_class": "editor",
+      "unicode": "e6f6",
+      "unicode_decimal": 59126
+    },
+    {
+      "icon_id": "11487984",
+      "name": "ashbin",
+      "font_class": "ashbin",
+      "unicode": "e744",
+      "unicode_decimal": 59204
+    },
+    {
+      "icon_id": "11488150",
+      "name": "smile",
+      "font_class": "smile",
+      "unicode": "e766",
+      "unicode_decimal": 59238
+    }
+  ]
+}

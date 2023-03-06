@@ -1,0 +1,5 @@
+{
+  /* 使用项目中的 TypeScript 作为编译核心 */
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true
+}
