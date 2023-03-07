@@ -1,10 +1,10 @@
 @font-face {
-  font-family: "iconfont"; /* Project id  */
-  src: url("iconfont.ttf?t=1677985720025") format("truetype");
+  font-family: 'iconfont'; /* Project id  */
+  src: url('iconfont.ttf?t=1677985720025') format('truetype');
 }
 
 .iconfont {
-  font-family: "iconfont" !important;
+  font-family: 'iconfont' !important;
   font-size: 16px;
   font-style: normal;
   -webkit-font-smoothing: antialiased;
@@ -12,21 +12,21 @@
 }
 
 .icon-all:before {
-  content: "\e6ef";
+  content: '\e6ef';
 }
 
 .icon-copy:before {
-  content: "\e6f3";
+  content: '\e6f3';
 }
 
 .icon-editor:before {
-  content: "\e6f6";
+  content: '\e6f6';
 }
 
 .icon-ashbin:before {
-  content: "\e744";
+  content: '\e744';
 }
 
 .icon-smile:before {
-  content: "\e766";
+  content: '\e766';
 }
